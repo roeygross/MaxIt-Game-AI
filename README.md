@@ -3,10 +3,14 @@ Python implemented DOS MaxIt game.
 
 Play against impossible AI alpha-beta pruning algorithm!
 
-Instructions:
+Instructions to start playing.:
 
 
-Download the files to a single file, and run gui.py to start playing.
+Download the files to a single folder.
+```
+cd folder
+python gui.py
+```
 
 
 
